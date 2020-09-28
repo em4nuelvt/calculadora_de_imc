@@ -211,7 +211,7 @@ class _HomeState extends State<Home> {
                   child: Text(
                     "By Emanuel Vieira",
                     style: TextStyle(
-                      color: Colors.pink,
+                      color: Colors.white,
                       fontSize: 10.0,
                     ),
                   ),
